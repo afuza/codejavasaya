@@ -1,4 +1,4 @@
-var disqus_shortname="afuzapratama";
+var disqus_shortname="afuza pratama";
 var disqus_url = disqus_blogger_current_url;
 
 (function () {
